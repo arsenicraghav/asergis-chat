@@ -1,0 +1,18 @@
+{
+	"db": {
+		"username": "amticau",
+		"password": "aGnrCBPy0qOkJ1jT",
+		"host": "ds225382.mlab.com",
+		"port": "25382",
+		"name": "amticadb"
+	},
+	"sessionSecret": "Thissystemisuniversal",
+	"redis": {
+		"host": "redis-10717.c1.asia-northeast1-1.gce.cloud.redislabs.com",
+		"port": 10717,
+		"password": "SNH7Nkiyw790qicjdCkNHMe9FLRlYZYE"
+	},
+	"defaultroom":{
+		"id" : "5b99548689f24273e4e2236e"
+	}
+}
